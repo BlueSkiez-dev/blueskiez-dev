@@ -1,29 +1,23 @@
 # Clement Bassey
 ### Design Engineer
 
-I have a problem with the distance between design and code.
+The distance between design and code...that's where you'll find me
 
-I'm a Design Engineer with a background in product design. I work across product thinking, interface design, design systems, and frontend development to build digital experiences that look good, work well, and make sense.
 
-## What I work on
+## Range
 
-- **Product Design:** Turning complex problems into clear, intuitive experiences.
-- **Design Engineering:** Building interfaces that stay true to the design, down to the details.
-- **Design Systems:** Creating reusable components, design foundations, and scalable UI architecture.
-- **Prototyping:** Making ideas tangible, interactive, and testable.
+- **Product Design:** Turning complex problems into clear, intuitive rectangles.
+- **Design Engineering:** Building interfaces that stay true to the design, down to the rectangles.
+- **Design Systems:** Creating reusable rectangles, design foundations, and scalable UI architecture.
+- **Prototyping:** Making rectangles tangible, interactive, and testable.
 
-## Tools & Technologies
-
-**Design:** Figma, Framer
-
-**Development:** HTML, CSS, JavaScript
 
 ## Find me elsewhere
 
 - **Portfolio:** [clementbassey.com](https://clementbassey.com)
-- **LinkedIn:** [Connect with me](YOUR_LINKEDIN_URL)
-- **Email:** [Get in touch](mailto:YOUR_EMAIL)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/clement-bassey/)
+- **Email:** [Get in touch](mailto:clement@yolura.com)
 
 ---
 
-<sub>Designed with intent. Built with curiosity. Still questioning the brief.</sub>
+<sub>What this do? Oh...nvm.</sub>
