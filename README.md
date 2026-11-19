@@ -1,5 +1,5 @@
-# Clement Bassey
-### Design Engineer
+# Kuremento (Clem)
+### Design Engineer✨
 
 The distance between design and code...that's where you'll find me
 
