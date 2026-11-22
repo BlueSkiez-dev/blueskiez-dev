@@ -1,15 +1,15 @@
 # I'm Clem.
-### Design Engineer✨
+### Design Engineer & Builder✨
 
-The distance between design and code...that's where you'll find me
+Look at the distance between design and code...that's where you'll find me
 
 
 ## Range
 
-- **Product Design:** Turning complex problems into clear, intuitive rectangles.
+- **Product & UX Design:** Turning complex problems into clear, intuitive rectangles.
 - **Design Engineering:** Building interfaces that stay true to the design, down to the rectangles.
 - **Design Systems:** Creating reusable rectangles, design foundations, and scalable UI architecture.
-- **Prototyping:** Making rectangles tangible, interactive, and testable.
+- **Rapid Prototyping:** Making rectangles tangible, interactive, and testable in record time.
 
 
 ## Find me elsewhere
