@@ -1,5 +1,5 @@
 # I'm Clem.
-### Design Engineer & Builder✨
+### Design Engineer & Builda✨
 
 Look at the distance between design and code...that's where you'll find me
 
